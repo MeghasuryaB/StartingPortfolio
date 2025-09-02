@@ -21,7 +21,6 @@ Add JavaScript interactivity (dark mode, form validation)
 
 Add projects section with live demo links
 
-Connect contact form with backend (PHP/MySQL or Email API)
 ---
 
 Author
